@@ -9,7 +9,7 @@ body{
     font-family: 'Open Sans';font-size: 22px;
     overflow:hidden;
     text-decoration: none;
-    color:black;
+    color:white;
 }
 .nav-item{
     color: white;
@@ -55,7 +55,7 @@ hr {
     position:absolute;
     top: 40%;
     left: 30%;
-    color: black;
+    color:white;
 }
 
 
