@@ -5,16 +5,10 @@ html {
 body{
     margin: 0;
 }
-.navbar li a{
-    font-family: 'Open Sans';font-size: 22px;
-    overflow:hidden;
-    text-decoration: none;
-    color:white;
+.navbar{
+    font-size:large;  
 }
-.nav-item{
-    color: white;
 
-}
 h2.sub-title{
 font-family: 'Open Sans'; font-size: 22px;
     text-align: center;
@@ -62,8 +56,6 @@ hr {
 
 #about{
     height: 500px;
-
-
 
 }
 
