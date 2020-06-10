@@ -1,20 +1,14 @@
 html {
-    scroll-behavior:smooth;
-    font-family: 'Lato';
-}
+     scroll-behavior:smooth;
+     font-family: 'Lato';
+ }
 
 body{
     margin: 0;
 }
 
-.navbar{
-    font-size:large;
-
-}
-
-
 h2.sub-title{
-font-family: 'Open Sans'; font-size: 22px;
+    font-family: 'Open Sans'; font-size: 22px;
     text-align: center;
 }
 
@@ -56,7 +50,9 @@ hr {
     color:black;
 }
 
-
+li{
+    margin: 10px 0;
+}
 
 #about{
     height: 500px;
@@ -64,11 +60,9 @@ hr {
 
 #projects{
     height: 500px;
-background-color: #444141;
-text-align: left;
-color: white;
-
-
+    background-color: #424949;
+    text-align: left;
+    color: white;
 }
 
 #contact{
@@ -91,6 +85,7 @@ section {
     border-radius: 50%;
     color:black;
 }
+
 
 .fa:hover {
     text-decoration: none;
