@@ -32,8 +32,7 @@ hr {
 .hero-page{
     width: 100vw;
     height: 100vh;
-
-    background-image: url("mountainBG.jpg");
+    background-color:#FF8848;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -60,7 +59,7 @@ li{
 
 #projects{
     height: 500px;
-    background-color: #424949;
+    background-color: #BFFCFC;
     text-align: left;
     color: white;
 }
