@@ -55,6 +55,7 @@ li{
 
 #about{
     height: 500px;
+    text-align: center;
 }
 
 #projects{
@@ -65,6 +66,7 @@ li{
 }
 #demos{
     height: 500px;
+    background-color:#FF8848;
 }
 #contact{
     display: block;
